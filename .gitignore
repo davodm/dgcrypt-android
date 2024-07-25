@@ -1,0 +1,14 @@
+# Gradle files
+.gradle
+/build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# IDE files
+.idea
+*.iml
+*.ipr
+*.iws
+
+# OS generated files
+.DS_Store
+Thumbs.db
